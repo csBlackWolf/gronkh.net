@@ -16,3 +16,6 @@
 <div class="ibox">
 <a class="twitter-timeline" data-lang="de" data-dnt="true" data-theme="dark" href="https://twitter.com/Gronkh?ref_src=twsrc%5Etfw">Tweets by Gronkh</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+<div class="fixed">
+	<button class="edit"><a href="#">Webseite Bearbeiten</a></button>
+</div>
