@@ -1,5 +1,5 @@
 <div class="fixed">
-	<button class="edit"><a href="#">Webseite Bearbeiten</a></button>
+	<button class="edit"><a href="https://github.com/csBlackWolf/gronkh.net/">Webseite Bearbeiten</a></button>
 </div>
 <nav>
 	<ul>
