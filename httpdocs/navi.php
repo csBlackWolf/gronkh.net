@@ -1,6 +1,3 @@
-<div class="fixed">
-	<button class="edit"><a href="#">Webseite Bearbeiten</a></button>
-</div>
 <nav>
 	<ul>
 		<li>
